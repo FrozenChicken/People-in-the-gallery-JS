@@ -1,5 +1,9 @@
 # People-in-the-gallery-JS
-Simple program to count people, based in js
+Simple program to count people, based in js, 
+there can be a maximum of five people in the store after that you ll received alert about wait for some leave. 
+except that program count total amoumt of gallery visitors however for every avaible entry u ll receive communicate about about pass to the shop
+
+
 code raw:
 
 
